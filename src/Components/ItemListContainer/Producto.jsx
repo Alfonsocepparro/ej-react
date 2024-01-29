@@ -1,4 +1,4 @@
-export const Producto = (nombre, img, precio, desc ) => {
+export const Producto = ([{nombre, img, precio, desc }]) => {
     return (
     <div>
         <h1>{nombre}</h1>
