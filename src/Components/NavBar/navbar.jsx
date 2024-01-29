@@ -7,7 +7,7 @@ function NavBar() {
     <>
     <Navbar bg="light" data-bs-theme="light">
         <Container>
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#home"><img src="../../assets/img/logo-lengua" alt="" /></Navbar.Brand>
             <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#features">Ropa</Nav.Link>
@@ -20,4 +20,4 @@ function NavBar() {
     );
 }
 
-export default NavBar;
+export default NavBar
