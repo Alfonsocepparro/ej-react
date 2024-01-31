@@ -1,0 +1,12 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+}
+.bg-white{
+    display: flex;
+
+}
+.titulo{
+    display: flex;
+}
